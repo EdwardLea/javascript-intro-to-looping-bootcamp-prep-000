@@ -23,10 +23,9 @@ function doWhileLoop(array){
   function incrementVariable() {
   i = i + 1;
   }
-  do {delete array[]
-    
+  do {array.pop();
   }
-  incrementVariable()
+  
   while (array.length > 0 && incrementVariable());
   
 }
