@@ -18,4 +18,6 @@ function whileLoop(n){
   } 
 }
 
-function 
+function doWhileLoop(array){
+  
+}
