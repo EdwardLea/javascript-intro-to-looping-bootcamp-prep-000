@@ -10,3 +10,12 @@ function forLoop(array){
   }
  return array;
 }
+
+
+function whileLoop(number){
+  while (number > 0 ){
+    console.log(--number)
+  } then{
+    return "done"
+  }
+}
