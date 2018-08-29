@@ -1,4 +1,5 @@
 var array = [];
+var n = ;
 
 function forLoop(array){
   for (let i = 0; i < 25; i++) {
@@ -11,3 +12,11 @@ function forLoop(array){
  return array;
 }
 
+
+function whileLoop(n){
+  while (n > 0 ){
+    console.log(--n)
+  } then{
+    console.log("done");
+  }
+}
