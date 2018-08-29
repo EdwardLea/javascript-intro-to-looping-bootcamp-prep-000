@@ -23,7 +23,7 @@ function doWhileLoop(array){
   function incrementVariable() {
   i = i + 1;
   }
-  do{}
+  do{delete.array[]}
   
   while (array.length > 0 && incrementVariable())
   
